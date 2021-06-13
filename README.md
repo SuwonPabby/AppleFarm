@@ -1,7 +1,7 @@
 # 🍎 AppleFarm - Gesture Recognition🖐
 
 
-## 🙂 what we made?
+## 🙂 What we made?
 - webcam 을 이용한 실시간 gesture recognition model
 
 ```  
@@ -17,16 +17,16 @@
     10. down
 ```
 
-## 📌 result
+## 📌 Result
 ><img src = "https://drive.google.com/uc?id=1AWMxZYL6RWsNazjjA3P3ueAmsshxNn4T" width = "200">
 ><img src = "https://drive.google.com/uc?id=1lQO890CBZxsbLyVtfaH6mbF8TpFJwLnh" width = "200">
 ><img src = "https://drive.google.com/uc?id=1twTRsWJjSlo84dxFkJu_Ec4JktxP0tr6" width = "200">
 
 
-## 💡 model structure
+## 💡 Model structure
 
 
-## 🗂 dataset 
+## 🗂 Dataset 
 1) [kaggle dataset](https://www.kaggle.com/gti-upm/leapgestrecog)
 ><img src = "https://drive.google.com/uc?id=1BLLcwa7MkqCvnY7YvaoTn2P5MeDrNnEJ" width = "500">
 
