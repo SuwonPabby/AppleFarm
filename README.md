@@ -17,6 +17,11 @@
     10. down
 ```
 
+## 📌 result
+><img src = "https://drive.google.com/uc?id=1AWMxZYL6RWsNazjjA3P3ueAmsshxNn4T" width = "200">
+><img src = "https://drive.google.com/uc?id=1lQO890CBZxsbLyVtfaH6mbF8TpFJwLnh" width = "200">
+><img src = "https://drive.google.com/uc?id=1twTRsWJjSlo84dxFkJu_Ec4JktxP0tr6" width = "200">
+
 
 ## 💡 model structure
 
