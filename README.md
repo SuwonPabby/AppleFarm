@@ -24,7 +24,8 @@
 
 
 ## 💡 Model structure
-><img src ="https://drive.google.com/uc?id=1ID-VG74m-uWM_sw6jbmu_FEkqSySmtBt" width = "500">
+><img src ="https://drive.google.com/uc?id=1NPog2rOVGV8XtrEwAiDTdBTTZI82-Zvk" width = "500">
+
 
 ## 🗂 Dataset 
 1) [kaggle dataset](https://www.kaggle.com/gti-upm/leapgestrecog)
