@@ -18,22 +18,30 @@
 ```
 
 ## 📌 Result
-><img src = "https://drive.google.com/uc?id=1XxSwMhw6bmUNxrxYLzDxSuFuYHxv9Ogq" width = "200">
-><img src = "https://drive.google.com/uc?id=1dTpAhP1jdxgyWPoOUvyGYIQm9ypWTZgW" width = "200">
-><img src = "https://drive.google.com/uc?id=1JUcCSEkjnmLvuCfDNFP6D0fTlve3htel" width = "200">
+<div>
+<img width="200" alt="fist" src="https://github.com/SuwonPabby/AppleFarm/assets/60493070/9736895b-1909-4e04-be1c-df2671c334d4">
+
+<img width="200" alt="ok" src="https://github.com/SuwonPabby/AppleFarm/assets/60493070/de549f4e-4c16-4fd6-ae03-d4baaca14e8b">
+
+<img width="200" alt="ok2" src="https://github.com/SuwonPabby/AppleFarm/assets/60493070/cef2343e-dac9-46f0-a799-d9de191451b2">
+</div>
+
 
 ## 💡 Model structure
-><img src ="https://drive.google.com/uc?id=1NPog2rOVGV8XtrEwAiDTdBTTZI82-Zvk" width = "500">
+
+><img src ="https://github.com/SuwonPabby/AppleFarm/assets/60493070/6ac40db0-19b7-453c-8f1c-f8ae5f2f70e8" alt="model structure" width = "500">
 
 
 ## 🗂 Dataset 
 1) [kaggle dataset](https://www.kaggle.com/gti-upm/leapgestrecog)
-><img src = "https://drive.google.com/uc?id=1BLLcwa7MkqCvnY7YvaoTn2P5MeDrNnEJ" width = "500">
+><img width="500" alt="kaggle dataset" src="https://github.com/SuwonPabby/AppleFarm/assets/60493070/d76a03dd-1ac2-41a2-b308-0730ee1c515a">
+
 
 2) [self-made datset](https://drive.google.com/drive/folders/1huFQPJpnWNiSG6-nFpr5APYGwNgmvfP4?usp=sharing)
 - 웹캠을 이용하여 데이터셋 직접 생성
-><img src = "https://drive.google.com/uc?id=1D0OCJazRQbdWyisrueG9vkvJw90eBwNe" width ="500">
-><img src = "https://drive.google.com/uc?id=1Up_RicDfKTBhXZlLWR7jkJ3fBhYeMENn" width = "500">
+><img src = "https://github.com/SuwonPabby/AppleFarm/assets/60493070/ff956e53-9658-4cb0-b66f-cc13f29bfb1e" alt="labeling" width ="500">
+
+><img width="500" alt="self-made dataset" src="https://github.com/SuwonPabby/AppleFarm/assets/60493070/a2f68f00-aedd-41da-8e6b-3732afe7855c">
 
 
 
