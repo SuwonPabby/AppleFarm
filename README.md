@@ -51,7 +51,7 @@ May 1, 2021 ~
 
 ## 👨‍👩‍👧‍👧 Members
 * 박상준 ([JJukE](https://github.com/JJukE))
-* 이의진 ([lee-euijin](https://github.com/suwonPabby))
+* 이의진 ([suwonPabby](https://github.com/suwonPabby))
 * 김미성 ([MiSungKim](https://github.com/MiSungKim/))
 
 
